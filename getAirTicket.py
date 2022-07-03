@@ -106,5 +106,4 @@ if __name__ == "__main__":
             if city1[1] == city2[1]:
                 continue
             file.flush()
-        break
     file.close()
